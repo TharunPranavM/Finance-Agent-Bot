@@ -1,0 +1,15 @@
+streamlit
+google-generativeai
+python-dotenv
+agno
+yfinance
+duckduckgo-search
+pandas
+numpy
+requests
+python-dateutil
+beautifulsoup4
+tweepy
+newsapi-python
+textblob
+google-genai
